@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add merge.
 
 some works are coutinue.
+add/usr/bin/env
